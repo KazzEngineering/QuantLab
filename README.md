@@ -4,8 +4,9 @@
 
 ### Quantitative Finance · Software Engineering · Applied Mathematics
 
-A Python-based quantitative research laboratory for market analysis,
-financial statistics, risk measurement and strategy backtesting.
+A Python and C++ quantitative research laboratory for financial
+market analysis, risk measurement, statistical modelling
+and numerical computing.
 
 <br/>
 
@@ -53,36 +54,20 @@ applying rigorous software engineering practices.
 
 ---
 
-## Roadmap
+## Project Roadmap
 
-### Phase 1 — Market Data Engineering
+| Phase | Description | Status |
+|:---:|:---|:---:|
+| 0 | Project Setup & Architecture | ✅ Completed |
+| 1 | Market Data Engineering | ✅ Completed |
+| 2 | Financial Returns & Risk Analytics | ⏳ Planned |
+| 3 | Statistical Analysis & Asset Comparison | ⏳ Planned |
+| 4 | Technical Indicators | ⏳ Planned |
+| 5 | C++ Numerical Computing & Benchmarks | ⏳ Planned |
+| 6 | Quantitative Research & Interactive Visualization | ⏳ Planned |
+| 7 | Technical Report, CI & Final Release | ⏳ Planned |
 
-- [x] Historical market data acquisition
-- [x] OHLCV data validation and normalization
-- [x] Financial price adjustments
-- [x] Automated unit testing
-- [x] Market data quality verification
-
-### Financial Analytics
-
-- [ ] Simple and logarithmic returns
-- [ ] Financial statistics
-- [ ] Volatility and risk metrics
-- [ ] Performance metrics
-
-### Indicators & Backtesting
-
-- [ ] Technical indicators
-- [ ] Trading strategies
-- [ ] Backtesting engine
-- [ ] Benchmark comparison
-
-### Research & Visualization
-
-- [ ] Financial data visualization
-- [ ] Strategy performance analysis
-- [ ] Interactive demonstration
-- [ ] Technical research report
+**Target release:** v1.0.0 — January 2027
 
 ---
 
