@@ -67,7 +67,7 @@ applying rigorous software engineering practices.
 | 6 | Quantitative Research & Interactive Visualization | ⏳ Planned |
 | 7 | Technical Report, CI & Final Release | ⏳ Planned |
 
-**Target release:** v1.0.0 — January 2027
+**Target release:** v1.0.0 - January 2027
 
 ---
 
